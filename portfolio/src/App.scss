@@ -118,6 +118,11 @@
     align-items: center;
 
     transition: all 0.3s ease-in-out;
+    cursor: pointer;
+
+    a {
+      display: flex;
+    }
 
     svg {
       width: 15px;

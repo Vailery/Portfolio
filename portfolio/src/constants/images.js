@@ -1,6 +1,7 @@
 import figma from "../assets/figma.png";
 import react from "../assets/react.png";
 import sass from "../assets/sass.png";
+import redux from "../assets/redux.png";
 
 import profile from "../assets/profile.png";
 import circle from "../assets/circle.svg";
@@ -14,6 +15,7 @@ export default {
   figma,
   react,
   sass,
+  redux,
   profile,
   circle,
   logo,
