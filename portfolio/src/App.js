@@ -1,12 +1,12 @@
 import React from "react";
-import styles from "./App.module.scss";
+import "./App.scss";
 
 import { About, Footer, Header, Skills, Work } from "./container";
 import { Navbar } from "./components";
 
 const App = () => {
   return (
-    <div className={styles.app}>
+    <div className="app">
       <Navbar />
       <Header />
       <About />
