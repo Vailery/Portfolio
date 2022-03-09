@@ -75,6 +75,18 @@
     }
   }
 
+  &-button {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: var(--secondary-color);
+    text-decoration: none;
+    color: var(--white-color);
+
+    @media screen and (max-width: 900px) {
+      display: none;
+    }
+  }
+
   &-menu {
     width: 35px;
     height: 35px;
@@ -152,6 +164,14 @@
               color: var(--secondary-color);
             }
           }
+        }
+
+        .menu-button {
+          padding: 10px;
+          border-radius: 20px;
+          background-color: var(--secondary-color);
+          text-decoration: none;
+          color: var(--white-color);
         }
       }
 
