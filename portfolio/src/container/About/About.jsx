@@ -32,7 +32,7 @@ const About = () => {
   };
 
   return (
-    <div className="app__about">
+    <>
       <h2
         className="head-text"
         onClick={() => {
@@ -63,7 +63,7 @@ const About = () => {
           </motion.div>
         ))}
       </div>
-    </div>
+    </>
   );
 };
 
