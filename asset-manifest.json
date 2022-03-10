@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d25ac642.css",
+    "main.js": "/Portfolio/static/js/main.eaeee771.js",
+    "static/media/profile.png": "/Portfolio/static/media/profile.2950df066c77d93f6c0b.png",
+    "static/media/indicorp.png": "/Portfolio/static/media/indicorp.d05648de65d82ab1ae2e.png",
+    "static/media/landing-page-islands.png": "/Portfolio/static/media/landing-page-islands.1b22460c0d0dab45361a.png",
+    "static/media/gallo.png": "/Portfolio/static/media/gallo.9fbdce9c8f46756b2814.png",
+    "static/media/travel-page.png": "/Portfolio/static/media/travel-page.390824b9a0df5bf7fbb0.png",
+    "static/media/about01.png": "/Portfolio/static/media/about01.3bea2a9e78c5673f33b7.png",
+    "static/media/bgIMG.png": "/Portfolio/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/Portfolio/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/about02.png": "/Portfolio/static/media/about02.1112ca53292468dd7a1f.png",
+    "static/media/blog.png": "/Portfolio/static/media/blog.52e24841e18080004322.png",
+    "static/media/about03.png": "/Portfolio/static/media/about03.33c89444d61a902875f1.png",
+    "static/media/todo-list.png": "/Portfolio/static/media/todo-list.64a9539619977fc6ddff.png",
+    "static/media/music-player.png": "/Portfolio/static/media/music-player.35a5cc8b4bc9d5aee7de.png",
+    "static/media/react.png": "/Portfolio/static/media/react.b9a14f34c7e7ac1b8ed6.png",
+    "static/media/redux.png": "/Portfolio/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/Portfolio/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.559bc637cc814019ec81.png",
+    "static/media/figma.png": "/Portfolio/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/Portfolio/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/Portfolio/static/media/git.a54d3fa44e02f2f61e69.png",
+    "index.html": "/Portfolio/index.html",
+    "static/media/circle.svg": "/Portfolio/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.d25ac642.css.map": "/Portfolio/static/css/main.d25ac642.css.map",
+    "main.eaeee771.js.map": "/Portfolio/static/js/main.eaeee771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25ac642.css",
+    "static/js/main.eaeee771.js"
+  ]
+}
