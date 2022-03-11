@@ -3,7 +3,7 @@ import { HiMenuAlt4, HiX } from "react-icons/hi";
 import { motion } from "framer-motion";
 
 import "./Navbar.scss";
-import { images } from "../../constants";
+import { images, pdf } from "../../constants";
 
 const Navbar = () => {
   let [toggle, setToggle] = useState(false);
@@ -23,7 +23,7 @@ const Navbar = () => {
         ))}
       </ul>
 
-      <a href="#" className="p-text app__navbar-button" download>
+      <a href={pdf} className="p-text app__navbar-button" download>
         Download CV
       </a>
 
@@ -45,7 +45,7 @@ const Navbar = () => {
                 </li>
               ))}
 
-              <a href="#" className="p-text menu-button" download>
+              <a href={pdf} className="p-text menu-button" download>
                 Download CV
               </a>
             </ul>

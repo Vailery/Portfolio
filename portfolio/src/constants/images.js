@@ -28,7 +28,7 @@ import html from "../assets/html.png";
 import javascript from "../assets/javascript.png";
 import typescript from "../assets/typescript.png";
 
-export default {
+const images = {
   figma,
   react,
   sass,
@@ -54,3 +54,5 @@ export default {
   javascript,
   typescript,
 };
+
+export default images;
