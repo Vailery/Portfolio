@@ -25,8 +25,8 @@ const Footer = () => {
       <div className="app__footer-cards">
         <div className="app__footer-card ">
           <HiOutlineMail />
-          <a href="mailto:leralaibik8@gmail.com" className="p-text">
-            leralaibik8@gmail.com
+          <a href="mailto:leraliabik8@gmail.com" className="p-text">
+            leraliabik8@gmail.com
           </a>
         </div>
         <div className="app__footer-card">
